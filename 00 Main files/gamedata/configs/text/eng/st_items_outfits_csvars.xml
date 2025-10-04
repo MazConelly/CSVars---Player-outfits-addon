@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- CS-1 variants -->
+
+<!-- 	<string id="csky_light_novice_outfit_name">
+		<text>CS-1 body armour</text>
+	</string>
+	<string id="csky_light_novice_outfit_description">
+		<text>%c[ui_gray_1]A light suit worn by Clear Sky's novice researchers. It provides more than adequate protection from the anomalous phenomena in the Swamps, but does little to protect from physical threats or radiological phenomena.</text>
+	</string> -->
+
+	<string id="csky_light_novice_outfit_mono">
+		<text>Lost CS-1 body armour</text>
+	</string>
+	<string id="csky_light_novice_outfit_mono_description">
+		<text>%c[ui_gray_1]A light suit worn by Clear Sky's novice researchers. It provides more than adequate protection from the anomalous phenomena in the Swamps, but does little to protect from physical threats or radiological phenomena.\n
+		Many members of Clear Sky and their gear were lost at their disastrous raid to the CNPP. While the survivors resent Monolith for reusing their old armor, it's not unreasonable the fanatics would reuse their spoils of war. Curiously, most samples are in quite good state and don't seem to have suffered much as damage or changes prior to recovery and repair one would think of a massacre, which may indicate the Clear Sky assault might have been more than enough to match Monolith's defenses, making the ruinous emission that happened during that time their indisputed executioner.\n</text>
+	</string>
+
+	<string id="csky_light_novice_outfit_rene">
+		<text>Stolen CS-1 body armour</text>
+	</string>
+	<string id="csky_light_novice_outfit_rene_description">
+		<text>%c[ui_gray_1]A light suit worn by Clear Sky's novice researchers. It provides more than adequate protection from the anomalous phenomena in the Swamps, but does little to protect from physical threats or radiological phenomena.\n
+		The Renegades' fixation with the Swamp brings them to clash continually with Clear Sky. It's natural for fallen equipment to exchange hands, and Clear Sky equipment is much better than what the Renegades own. These outfits end up in their hands in quite a bad state, and repairing them with their poor means turns them into subpar equipment. Though no matter what their state, it would guarantee to anger any Clear Sky member seeing it.\n</text>
+	</string>
+
+	<string id="csky_light_novice_outfit_greh">
+		<text>Ripped CS-1 body armour</text>
+	</string>
+	<string id="csky_light_novice_outfit_greh_description">
+		<text>%c[ui_gray_1]A light suit worn by Clear Sky's novice researchers. It provides more than adequate protection from the anomalous phenomena in the Swamps, but does little to protect from physical threats or radiological phenomena.\n
+		While Clear Sky doesn't part easily with their self made equipment, none of their members remembers clashing with Sin yet. So no one is quite sure how a relatively new faction managed to get a hold of their equipment, implying a connection with Monolith, or perhaps some more disturbing ways. In any case, most samples seem to have been ritually desecrated; while they still offer decent protection, one shouldn't expect it to last for long under duress.\n</text>
+	</string>
+
+
+<!-- New CS-1A and variants -->
+	<string id="csky_scout_outfit_name">
+		<text>CS-1a body armour</text>
+	</string>
+	<string id="csky_scout_outfit_description">
+		<text>%c[ui_gray_1]A heavier modification of the CS-1 body armour, with heavier clothes for improved carry load and protection, intended for Clear Sky scouts, couriers, guides, and even medical embers moving far into the north of the Zone. While not a ghillie suit, some consideration was given to camoflage the wearer.\n</text>
+	</string>
+
+	<string id="csky_scout_outfit_neutral">
+		<text>Scrubbed CS-1a body armour</text>
+	</string>
+	<string id="csky_scout_outfit_neutral_description">
+		<text>%c[ui_gray_1]A CS-1a in urban camo, wearing a loner badge. Worn by Clear Sky scouts that spend more time scouting urban locations like Limansk, or who try to mingle among loners for any variety of reasons, from simply being ex-members to inconspicuous espionage. Clear Sky have also been selling these to loners as a way to recover economically, and stalkers consider it a good quality alternative to Sunrise outfits, if not entirely easy to acquire due to the remoteness and caginess of Clear Sky.\n</text>
+	</string>
+
+	<string id="csky_scout_outfit_mono">
+		<text>Converted CS-3a body armour</text>
+	</string>
+	<string id="csky_scout_outfit_mono_description">
+		<text>%c[ui_gray_1]A heavier modification of the CS-1 body armour, with heavier clothes for improved carry load and protection, intended for Clear Sky scouts, couriers, guides, and even medical embers moving far into the north of the Zone. While not a ghillie suit, some consideration was given to camoflage the wearer.\n
+		Many members of Clear Sky and their gear were lost at their disastrous raid to the CNPP. While the survivors resent Monolith for reusing their old armor, it's not unreasonable the fanatics would reuse their spoils of war. Curiously, most samples are in quite good state and don't seem to have suffered much as damage or changes prior to recovery and repair one would think of a massacre, which may indicate the Clear Sky assault might have been more than enough to match Monolith's defenses, making the ruinous emission that happened during that time their indisputed executioner.\n</text>
+	</string>
+
+	<string id="csky_scout_outfit_rene">
+		<text>Looted CS-3a body armour</text>
+	</string>
+	<string id="csky_scout_outfit_rene_description">
+		<text>%c[ui_gray_1]A heavier modification of the CS-1 body armour, with heavier clothes for improved carry load and protection, intended for Clear Sky scouts, couriers, guides, and even medical embers moving far into the north of the Zone.\n
+		While the original wasn't quite a ghillie suit, any semblance of camouflage was lost with the tacky additions of the Renegades.\n
+		The Renegades' fixation with the Swamp brings them to clash continually with Clear Sky. It's natural for fallen equipment to exchange hands, and Clear Sky equipment is much better than what the Renegades own. These outfits end up in their hands in quite a bad state, and repairing them with their poor means turns them into subpar equipment. Though no matter what their state, it would guarantee to anger any Clear Sky member seeing it.\n</text>
+	</string>
+
+	<string id="csky_scout_outfit_greh">
+		<text>Violated CS-3a body armour</text>
+	</string>
+	<string id="csky_scout_outfit_greh_description">
+		<text>%c[ui_gray_1]A heavier modification of the CS-1 body armour, with heavier clothes for improved carry load and protection, intended for Clear Sky scouts, couriers, guides, and even medical embers moving far into the north of the Zone. While not a ghillie suit, some consideration was given to camoflage the wearer.\n
+		While Clear Sky doesn't part easily with their self made equipment, none of their members remembers clashing with Sin yet. So no one is quite sure how a relatively new faction managed to get a hold of their equipment, implying a connection with Monolith, or perhaps some more disturbing ways. In any case, most samples seem to have been ritually desecrated; while they still offer decent protection, one shouldn't expect it to last for long under duress.\n</text>
+	</string>
+
+
+<!-- CS-3B variants -->
+	<string id="csky_heavy_outfit_name">
+		<text>CS-3b body armour</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+		<text>%c[ui_gray_1]Formerly the standard outfit issued to Clear Sky assault squads, after the faction’s infamous failure against the NPP in 2011 this armour serves as a reminder that even an excellent protective bodysuit cannot guarantee safety on the wrong side of the perimeter. The armour is capable of stopping a pistol bullet, while the wearer is also reasonably protected from anomalies.\n
+		Still carried by some of the veteran Clear Sky shock troopers who tend to travel, and so favor mobility over more protective SKAT or exosuit armor.\n</text>
+	</string>
+
+	<string id="csky_heavy_outfit_mono">
+		<text>Turned CS-3b body armour</text>
+	</string>
+	<string id="csky_heavy_outfit_mono_description">
+		<text>%c[ui_gray_1]Formerly the standard outfit issued to Clear Sky assault squads, after the faction’s infamous failure against the NPP in 2011 this armour serves as a reminder that even an excellent protective bodysuit cannot guarantee safety on the wrong side of the perimeter. The armour is capable of stopping a pistol bullet, while the wearer is also reasonably protected from anomalies.\n
+		Many members of Clear Sky and their gear were lost at their disastrous raid to the CNPP. While the survivors resent Monolith for reusing their old armor, it's not unreasonable the fanatics would reuse their spoils of war. Curiously, most samples are in quite good state and don't seem to have suffered much as damage or changes prior to recovery and repair one would think of a massacre, which may indicate the Clear Sky assault might have been more than enough to match Monolith's defenses, making the ruinous emission that happened during that time their indisputed executioner.\n</text>
+	</string>
+
+	<string id="csky_heavy_outfit_rene">
+		<text>Pillaged CS-3b body armour</text>
+	</string>
+	<string id="csky_heavy_outfit_rene_description">
+		<text>%c[ui_gray_1]Formerly the standard outfit issued to Clear Sky assault squads, after the faction’s infamous failure against the NPP in 2011 this armour serves as a reminder that even an excellent protective bodysuit cannot guarantee safety on the wrong side of the perimeter. The armour is capable of stopping a pistol bullet, while the wearer is also reasonably protected from anomalies.\n
+		The Renegades' fixation with the Swamp brings them to clash continually with Clear Sky. It's natural for fallen equipment to exchange hands, and Clear Sky equipment is much better than what the Renegades own. These outfits end up in their hands in quite a bad state, and repairing them with their poor means turns them into subpar equipment. Though no matter what their state, it would guarantee to anger any Clear Sky member seeing it.\n</text>
+	</string>
+
+	<string id="csky_heavy_outfit_greh">
+		<text>Desecrated CS-3b body armour</text>
+	</string>
+	<string id="csky_heavy_outfit_greh_description">
+		<text>%c[ui_gray_1]Formerly the standard outfit issued to Clear Sky assault squads, after the faction’s infamous failure against the NPP in 2011 this armour serves as a reminder that even an excellent protective bodysuit cannot guarantee safety on the wrong side of the perimeter. The armour is capable of stopping a pistol bullet, while the wearer is also reasonably protected from anomalies.\n
+		While Clear Sky doesn't part easily with their self made equipment, none of their members remembers clashing with Sin yet. So no one is quite sure how a relatively new faction managed to get a hold of their equipment, implying a connection with Monolith, or perhaps some more disturbing ways. In any case, most samples seem to have been ritually desecrated; while they still offer decent protection, one shouldn't expect it to last for long under duress.\n</text>
+	</string>
+
+
+<!-- CS helm -->
+	<string id="st_helm_cs">
+		<text>CS-1 Head Set</text>
+	</string>
+	<string id="st_helm_cs_descr">
+		<text>%c[ui_gray_1]A steel army helmet combined with a quality dual filter respirator. Made and used by Clear Sky for their assault squads in preparation for their raid to the CNPP. For that reason, while its ballistic protection is not as good as that of army battle helmets or exohelms, it provides excellent radiological and chemical protection.\n
+		Many such helmets were lost during the catastrophic raid to the CNPP, ending in the hands of Monolith.\n</text>
+	</string>
+
+	<string id="st_helm_cs_improved">
+		<text>CS-1a Head Set</text>
+	</string>
+	<string id="st_helm_cs_improved_descr">
+		<text>%c[ui_gray_1]A steel army helmet combined with a quality dual filter respirator. Made and used by Clear Sky for their assault squads in preparation for their raid to the CNPP. For that reason, while its ballistic protection is not as good as that of army battle helmets or exohelms, it provides excellent radiological and chemical protection.\n
+		While Clear Sky stopped producing these in favor of already made military helmets, some samples that didn't travel to the CNPP were slightly upgraded, and now distributed to their assault squads when needed.\n</text>
+	</string>
+	
+	<string id="st_helm_cs_looted">
+		<text>CS Head Set, looted</text>
+	</string>
+	<string id="st_helm_cs_looted_descr">
+		<text>%c[ui_gray_1]A steel army helmet combined with a quality dual filter respirator. Made and used by Clear Sky for their assault squads in preparation for their raid to the CNPP. For that reason, while its ballistic protection is not as good as that of army battle helmets or exohelms, it provides excellent radiological and chemical protection.\n
+		This one seems degraded and badly put together. Considering the last wearer, you can't imagine it was acquired peacefully from Clear Sky.\n</text>
+	</string>
+
+</string_table>
